@@ -1,3 +1,4 @@
+
 ## Olá! Eu sou o Hudson Tamião! 🖐️
 
 
@@ -18,9 +19,19 @@
 <img align="center"alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 <img align="center"alt="r" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
 <img align="center"alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img align="center"alt="reactN" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+" />
 <img align="center"alt="node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="center"alt="sql server" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-<img align="center"alt="sql server" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
+<img align="center"alt="office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
+<img align="center"alt="TypeS" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img align="center"alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img align="center"alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img align="center"alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" />
 </div><br/>
 
+
 Apaixonado por tecnologia, agronegócio e educação, com projetos de melhoria das rotinas das pessoas com programação.
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HudsonTamiao)](https://github.com/anuraghazra/github-readme-stats)
