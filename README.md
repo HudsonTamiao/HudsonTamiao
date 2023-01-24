@@ -1,3 +1,7 @@
+![Profile views](https://gpvc.arturio.dev/andeinaoliveira)
+<a href="https://github.com/andreinaoliveira">
+</a>
+
 
 ## Olá! Eu sou o Hudson Tamião! 🖐️
 
